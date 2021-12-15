@@ -10,6 +10,14 @@ layout: default
 <table>
 <tbody>
   <tr>
+    <td>Since October 2019</td>
+    <td style="font-weight:bold">PhD in Economics at the University of Innsbruck</td>
+  </tr>
+    <tr>
+    <td>October 2016 to September 2019</td>
+    <td style="font-weight:bold">PhD in Economics at the University of Innsbruck</td>
+  </tr>
+    <tr>
     <td>Since October 2016</td>
     <td style="font-weight:bold">PhD in Economics at the University of Innsbruck</td>
   </tr>
