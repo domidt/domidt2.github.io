@@ -4,6 +4,10 @@ layout: default
 
 # Research
 
+My research explores markets with asymmetric information. In particular, I focus on the effects of insider trading regulation in asset markets and the quality of advice in intermediary markets.<br>
+
+My preferred software for data analysis and visualisation is *R*; though, I am professional user of *stata*, *matlab*, and *python*.
+
 ## Publications
 
 <table>
