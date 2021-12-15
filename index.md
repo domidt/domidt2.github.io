@@ -83,12 +83,8 @@ layout: default
 ### Definition lists can be used with HTML syntax.
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>1992</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dd>Bozen, Italy</dd>
 </dl>
