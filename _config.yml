@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+
+```yml
+title: Dominik Schmidt
+description: PhD candidate in Economics
+```
