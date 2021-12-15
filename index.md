@@ -158,6 +158,8 @@ layout: default
 </tbody>
 </table>
 
+[Research](File: "Research.md")
+
 <dl>
 <dt>Born</dt>
 <dd>December 21, 1992</dd>
