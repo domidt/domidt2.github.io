@@ -29,7 +29,7 @@ layout: default
   </tr>
   <tr>
     <td>2019S</td>
-    <td style="font-weight:bold"> SL Funcamentals of Economics</td>
+    <td style="font-weight:bold"> SL Fundamentals of Economics</td>
     <td>University of Innsbruck </td>
   </tr>
 </tbody>
