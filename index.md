@@ -11,7 +11,6 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 # Research
 
 <meta charset="utf-8">
-<title>Ongoing Work</title>
 <table>
 <thead>
   <tr>
