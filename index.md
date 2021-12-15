@@ -160,7 +160,7 @@ layout: default
 
 <dl>
 <dt>Born</dt>
-<dd>1992</dd>
+<dd>December 21, 1992</dd>
 <dt>Birthplace</dt>
 <dd>Bozen, Italy</dd>
 </dl>
