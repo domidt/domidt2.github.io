@@ -26,8 +26,8 @@ layout: default
 
 # Research
 
-<details open>
-  <summary><strong>Publications</strong></summary>
+## Publications
+
 <table>
 <thead>
   <tr>
@@ -44,11 +44,9 @@ layout: default
   </tr>
 </tbody>
 </table>
-</details>
   
 ## Ongoing work
-<details>
-  <summary>Ongoing work! (Click to expand)</summary>
+
 <table>
 <thead>
   <tr>
@@ -82,7 +80,8 @@ layout: default
 </table>
 </details>
 
-# Conference contributions
+<details open>
+  <summary><strong>Conference contributions</strong></summary>
 <table>
 <thead>
   <tr>
@@ -124,6 +123,8 @@ layout: default
   </tr>
 </tbody>
 </table>
+</details>
+
 
 
 <dl>
