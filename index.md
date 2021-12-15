@@ -158,7 +158,7 @@ layout: default
 </tbody>
 </table>
 
-[Research](File: "Research.md")
+[Research](./Research.md)
 
 <dl>
 <dt>Born</dt>
