@@ -27,7 +27,7 @@ layout: default
 # Research
 
 <details>
-  <summary><h2 { white-space: nowrap; }>Publications</h2></summary>
+  <summary><h2 white-space: nowrap;>Publications</h2></summary>
 <table>
 <thead>
   <tr>
