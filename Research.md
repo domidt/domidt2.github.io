@@ -20,9 +20,10 @@ My preferred software for data analysis and visualisation is *R*; though, I am p
 </thead>
 <tbody>
   <tr>
-    <td style="font-weight:bold">Asset market experiments with diverse information</td>
+    <td style="font-weight:bold">Asset market experiments with diverse information <\br>
+      <a href="https://ssrn.com/abstract=3947626" class="button button-rounded button-primary">Abstract</a>  </td>
     <td>Dominik Schmidt and Thomas Stöckl</td>
-    <td>Paper reviews the experimental finance literature investigating markets with different information structures to better understand how these structures influence trader behavior and market outcomes. Retrievable at  <a href="https://ssrn.com/abstract=3947626">https://ssrn.com/abstract=3947626</a>  </td>
+    <td>Paper reviews the experimental finance literature investigating markets with different information structures to better understand how these structures influence trader behavior and market outcomes. </td>
   </tr>
 </tbody>
 </table>
