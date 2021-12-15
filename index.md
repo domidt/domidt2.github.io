@@ -44,7 +44,7 @@ layout: default
   </tr>
 </tbody>
 </table>
-</div>
+</details>
   
 ## Ongoing work
 <details>
