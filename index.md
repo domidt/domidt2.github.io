@@ -26,8 +26,8 @@ layout: default
 
 # Research
 
-<details>
-  <summary><H1 {display: inline;}>Publications</summary></H1>
+<div class ="details">
+  <H1 {display: inline;}>Publications</H1>
 <table>
 <thead>
   <tr>
@@ -44,7 +44,7 @@ layout: default
   </tr>
 </tbody>
 </table>
-</details>
+</div>
   
 ## Ongoing work
 <details>
