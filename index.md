@@ -26,7 +26,8 @@ layout: default
 
 # Research
 
-## Publications
+<details>
+  <summary style="font-weight:bold", "font-size:22">Ongoing work</summary>
 <table>
 <thead>
   <tr>
