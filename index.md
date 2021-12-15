@@ -27,7 +27,7 @@ layout: default
 # Research
 
 <div class ="details">
-  <h1>Publications</h1>
+  <summary><h1>Publications</h1></summary>
 <table>
 <thead>
   <tr>
