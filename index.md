@@ -28,7 +28,7 @@ layout: default
 
 <details>
   <summary {
-  display: block;
+  style="font-weight:bold";
 }>Publications</summary>
 <table>
 <thead>
