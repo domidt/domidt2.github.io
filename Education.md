@@ -4,6 +4,8 @@ layout: default
 
 # Education
 
+
+
 <meta charset="utf-8">
 <table>
 <tbody>
