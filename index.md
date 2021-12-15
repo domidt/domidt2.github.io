@@ -27,7 +27,7 @@ layout: default
 # Research
 
 <details>
-  <h2 {display: inline;}><summary>Publications</summary></h2>
+  <summary><H1 {display: inline;}>Publications</summary></H1>
 <table>
 <thead>
   <tr>
