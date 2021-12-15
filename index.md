@@ -6,11 +6,37 @@ layout: default
 
 # Education
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+<meta charset="utf-8">
+<table>
+<tbody>
+  <tr>
+    <td>Since October 2016</td>
+    <td style="font-weight:bold">PhD in Economics at the University of Innsbruck</td>
+  </tr>
+</tbody>
+</table>
 
 # Research
 
-<meta charset="utf-8">
+## Publications
+<table>
+<thead>
+  <tr>
+    <th>Title</th>
+    <th>Authors</th>
+    <th>Description</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="font-weight:bold">Asset market experiments with diverse information</td>
+    <td>Dominik Schmidt and Thomas Stöckl</td>
+    <td>Paper reviews the experimental finance literature investigating markets with different information structures to better understand how these structures influence trader behavior and market outcomes. Retrievable at  <a href="https://ssrn.com/abstract=3947626">https://ssrn.com/abstract=3947626</a>  </td>
+  </tr>
+</tbody>
+</table>
+
+## Ongoing work
 <table>
 <thead>
   <tr>
