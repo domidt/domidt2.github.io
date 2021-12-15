@@ -2,8 +2,6 @@
 layout: default
 ---
 
-[Link to another page](./another-page.html).
-
 # Education
 
 <meta charset="utf-8">
