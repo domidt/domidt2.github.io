@@ -78,7 +78,7 @@ layout: default
   </tr>
 </tbody>
 </table>
-</details>
+
 
 <details open>
   <summary><strong>Conference contributions</strong></summary>
