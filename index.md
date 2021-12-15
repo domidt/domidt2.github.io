@@ -10,7 +10,7 @@ layout: default
 <dt>Born</dt>
 <dd>December 21, 1992</dd>
 <dt>Location</dt>
-  <dd>Innsbruck, Austria<dd>
+  <dd>Innsbruck, Austria</dd>
 <dt>Birthplace</dt>
 <dd>Bozen, Italy</dd>
   <dt>Languages</dt>
