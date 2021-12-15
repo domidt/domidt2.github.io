@@ -10,12 +10,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 # Research
 
-<iframe
-  src="https://github.com/domidt/domidt.github.io/edit/main/OngoingWork.html"
-  style="width:100%; height:300px;"
-></iframe>
-
-[include](File: OngoingWork.html)
+[insert](File: OngoingWork.html)
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
