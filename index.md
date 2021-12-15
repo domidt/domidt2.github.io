@@ -137,22 +137,22 @@ layout: default
 <tbody>
   <tr>
     <td>2019W, 2020W</td>
-    <td style="font-weight:bold">36<sup>th</sup> PS Economics & the Public Sector</td>
+    <td style="font-weight:bold"> PS Economics & the Public Sector</td>
     <td>University of Innsbruck </td>
   </tr>
    <tr>
     <td>2019W, 2020W, 2021W</td>
-    <td style="font-weight:bold">36<sup>th</sup> Quantitative Methods fo Empirical Research</td>
+    <td style="font-weight:bold"> Quantitative Methods fo Empirical Research</td>
     <td>Management Center Innsbruck </td>
   </tr>
   <tr>
     <td>2020S, 2021S</td>
-    <td style="font-weight:bold">36<sup>th</sup> Business Research Coaching</td>
+    <td style="font-weight:bold"> Business Research Coaching</td>
     <td>Management Center Innsbruck </td>
   </tr>
   <tr>
     <td>2019S</td>
-    <td style="font-weight:bold">36<sup>th</sup> SL Funcamentals of Economics</td>
+    <td style="font-weight:bold"> SL Funcamentals of Economics</td>
     <td>University of Innsbruck </td>
   </tr>
 </tbody>
