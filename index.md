@@ -29,7 +29,7 @@ layout: default
 <details>
   <summary {
   display: block;
-}><h1>Publications</h1></summary>
+}>Publications</summary>
 <table>
 <thead>
   <tr>
