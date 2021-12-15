@@ -26,10 +26,8 @@ layout: default
 
 # Research
 
-<details>
-  <summary 
-  style="font-weight:bold"
->Publications</summary>
+<details open>
+  <summary><h2>Publications</h2></summary>
 <table>
 <thead>
   <tr>
