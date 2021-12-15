@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default.html
 ---
 
 [Link to another page](./another-page.html).
