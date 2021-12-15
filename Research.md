@@ -102,5 +102,3 @@ layout: default
 </tbody>
 </table>
 </details>
-
-[Research](File: "Research.md")
