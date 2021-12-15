@@ -27,7 +27,7 @@ layout: default
 # Research
 
 <details>
-  <summary><h1>Ongoing work</h1></summary>
+  <summary><h2>Publications</h2></summary>
 <table>
 <thead>
   <tr>
@@ -44,7 +44,8 @@ layout: default
   </tr>
 </tbody>
 </table>
-
+</details>
+  
 ## Ongoing work
 <details>
   <summary>Ongoing work! (Click to expand)</summary>
