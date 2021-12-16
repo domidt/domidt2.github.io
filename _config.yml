@@ -13,6 +13,8 @@ title                    : "Dominik Schmidt"
 title_separator          : "|"
 name                     : &name "Dominik Schmidt"
 description              : &description "personal page"
+logo                     : "/assets/images/DominikSchmidt.png"
+teaser                   : "/assets/images/Ginko.png"
 url                      : "https://domidt.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "domidt.domidt.github.io"
@@ -82,15 +84,15 @@ analytics:
 
 # Site Author
 author:
-  name             : Dominik Schmidt
-  avatar           : /files/DominikSchmidt.png
-  bio              : PhD candidate in Economics
-  location         : Innsbruck, Austria
+  name             : "Dominik Schmidt"
+  avatar           : "/assets/images/DominikSchmidt.png"
+  bio              : "PhD candidate in Economics"
+  location         : "Innsbruck, Austria"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : dominikschmidt.ac@gmail.com
-  researchgate     : https://www.researchgate.net/profile/Dominik-Schmidt-8
+  email            : "dominikschmidt.ac@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Dominik-Schmidt-8"
   uri              :
   bitbucket        :
   codepen          :
