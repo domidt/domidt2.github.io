@@ -11,9 +11,9 @@ minimal_mistakes_skin: "air" # "default", "air", "aqua", "contrast", "dark", "di
 
 title                    : "Dominik Schmidt"
 title_separator          : "|"
-name                     : &name Dominik Schmidt
-description              : &description "personal description"
-url                      : https://domidt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Dominik Schmidt"
+description              : &description "personal page"
+url                      : "https://domidt.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "domidt.domidt.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
