@@ -7,6 +7,9 @@
 
 # Site Settings
 locale                   : "en-GB"
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
 title                    : Dominik Schmidt
 title_separator          : "-"
 name                     : &name Dominik Schmidt
