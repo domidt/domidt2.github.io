@@ -1,1 +1,1 @@
-% this folder intents to keep documents in order
+% files that will appear at https://domidt.github.io/files/
